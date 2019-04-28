@@ -108,6 +108,7 @@
     transition: 0.3s;
     border-radius: 0;
   }
+
   
   .addBtn:hover {
     background-color: #bbb;
@@ -119,3 +120,48 @@
   body{
       background: cornflowerblue; 
   }
+  .attBtn{
+  padding: 10px;
+    width: 25%;
+    background: #d9d9d9;
+    color: #555;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+    }
+.attBtn:hover {
+  background-color: #bbb;
+}
+.orBtn{
+  padding: 10px;
+    width: 25%;
+    background: #d9d9d9;
+    color: #555;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+    }
+.orBtn:hover {
+  background-color: #bbb;
+}
+.buscarBtn{
+  padding: 10px;
+    width: 25%;
+    background: #d9d9d9;
+    color: #555;
+    float: left;
+    text-align: center;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+    border-radius: 0;
+    }
+.buscarBtn:hover {
+  background-color: #bbb;
+}
